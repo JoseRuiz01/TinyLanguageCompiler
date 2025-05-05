@@ -1,6 +1,6 @@
 # Tiny Language Processor 
 
-This repository contains the complete development of a language processor for the **Tiny** programming language, created as part of the **Language Processors** course (Curso 23/24) at [your institution, if applicable].
+This repository contains the complete development of a language processor for the **Tiny** programming language, created as part of the **Language Processors** course at *Universidad Complutense de Madrid*.
 
 ## 👥 Team G01
 - Esther Babón Arcauz  
